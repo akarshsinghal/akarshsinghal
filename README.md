@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developement and machine learning.
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on interesting projects.
-- 📫 Feel free to reach me on email: akarshsinghal2003@gmail.com
+- 📫 Feel free to reach me on email: akarshsinghal@hotmail.com
 
 <!---
 akarshsinghal/akarshsinghal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
