@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akarsh Singhal
-- 👀 I’m interested in software developement and machine learning.
+- 👀 I’m interested in software developement, computer hardware, and machine learning.
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 Feel free to reach me on email: akarshsinghal@hotmail.com
